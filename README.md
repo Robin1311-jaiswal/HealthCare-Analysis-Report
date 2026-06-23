@@ -79,7 +79,7 @@ Improve operational decision-making
 
 # (iii) Walkthrough of Key Dashboard Pages
 Page 1: Executive Summary Dashboard
-![Executive Sumaart Dashboard](https://github.com/Robin1311-jaiswal/HealthCare-Analysis-Report/blob/raw/1Executive%20Summary%20Dashboard.png)
+![Executive Summary Dashboard](https://github.com/Robin1311-jaiswal/HealthCare-Analysis-Report/blob/raw/1Executive%20Summary%20Dashboard.png)
 Key KPIs
 Total Patients: 9,216
 Total Admissions: 4,612
