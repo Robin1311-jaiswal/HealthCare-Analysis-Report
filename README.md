@@ -193,7 +193,7 @@ Average patient satisfaction remained at 5/10, suggesting opportunities to impro
 Department-level performance analysis enables data-driven staffing and operational planning decisions.
 
 
-5# . Author
+# 5. Author
 
 Robin Jaiswal
 
